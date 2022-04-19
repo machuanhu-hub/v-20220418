@@ -195,7 +195,7 @@ https://github.com/badafans/better-cloudflare-ip
 
 ### v2rayN
 
-换成 [V2rayN](https://github.com/2dust/v2rayN)
+换成 [V2rayN](https://github.com/machuanhu-hub/v-20220418
 
 别人的配置教程参考，https://v2raytech.com/v2rayn-config-tutorial/.
 
